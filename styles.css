@@ -1,0 +1,58 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-weight: 700;
+    padding: 1em;
+    font-size: 3em;
+}
+
+h2 {
+    margin: 3em 0 1em;
+    text-align: center;
+    color: black;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+img {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
+.inBox {
+    background-color: linen;
+    width: 70%;
+    margin: auto;
+}
+
+#photosTop {
+    padding-top: 1em;
+}
+
+#photosBottom {
+    padding-bottom: 5em;
+}
+
+#banner {
+    width: 100%;
+}
+
+.article {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    list-style-position: inside;
+}
+
+li {
+    margin: 1em;
+    list-style-type: none;
+}
+
+
+
